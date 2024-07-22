@@ -1,8 +1,18 @@
+<div align="left">
+ <img alt="pyPDFUnlock" height="80px" src="https://github.com/acer1456/pyPDFUnlock/blob/main/assets/icon.png?raw=true">
+</div>
+
 # pyPDFUnlock
 
 **一個給簡單的PDF解鎖小工具** 
 
 本工具只是純粹個人方便使用，並嘗試做一個完整的git，故分享給需要的人。
+
+### macOS
+[Download](https://github.com/acer1456/pyPDFUnlock/releases/download/v0.1/pyPDFUnlock.MacOS.zip)
+
+### Windows preview
+[Not Yet](#)
 
 ## 🌼 目前的功能
 * [x] 圖形化介面
